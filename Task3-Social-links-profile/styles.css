@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:hsl(0, 0%, 8%); /* Matches the card background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+.contain{
+    background-color:hsl(0, 0%, 12%);
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+}
+img{
+    border-radius: 100%;
+    width: 60px;
+    
+}
+.card-content{
+    display: block;
+    padding: 20px;
+}
+button{
+width: 100%;
+height: 34px;
+border-radius: 6px;
+border: none;
+background-color: hsl(0, 0%, 20%);
+color: white;
+}
+.but{
+    padding: 15px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
