@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(206, 237, 245);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+img{
+    width: 200px;
+    padding-top: 10px;
+    border-radius: 15px;
+
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    width: 230px;
+    height: 380px;
+    background-color: white;
+    border-radius: 9px;
+    justify-content: center;
+   
+}
+.text{
+    padding: 15px;
+}
