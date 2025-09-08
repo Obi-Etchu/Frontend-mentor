@@ -63,4 +63,8 @@ td:first-child {
   .back{
     background: white;
   }
+  .content{
+    background: white;
+    width: 100%;
+}
 }
